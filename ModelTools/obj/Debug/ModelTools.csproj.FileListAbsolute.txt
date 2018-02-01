@@ -1,0 +1,9 @@
+C:\working_copy\ModelBuilder\ModelBuilder\ModelTools\bin\Debug\ModelTools.exe.config
+C:\working_copy\ModelBuilder\ModelBuilder\ModelTools\bin\Debug\ModelTools.exe
+C:\working_copy\ModelBuilder\ModelBuilder\ModelTools\bin\Debug\ModelTools.pdb
+C:\working_copy\ModelBuilder\ModelBuilder\ModelTools\bin\Debug\Microsoft.Solver.Foundation.dll
+C:\working_copy\ModelBuilder\ModelBuilder\ModelTools\bin\Debug\Microsoft.Solver.Foundation.xml
+C:\working_copy\ModelBuilder\ModelBuilder\ModelTools\obj\Debug\ModelTools.exe
+C:\working_copy\ModelBuilder\ModelBuilder\ModelTools\obj\Debug\ModelTools.pdb
+C:\working_copy\ModelBuilder\ModelBuilder\ModelTools\obj\Debug\ModelTools.csprojResolveAssemblyReference.cache
+C:\working_copy\ModelBuilder\ModelBuilder\ModelTools\obj\Debug\ModelTools.csproj.CoreCompileInputs.cache
